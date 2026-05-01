@@ -23,7 +23,7 @@ I build end-to-end geospatial pipelines — from satellite acquisition to spatia
 |---|---|---|
 | **🍌 Banalytics** | Climate-driven spatiotemporal forecasting of Black Sigatoka disease in banana plantations across Africa & South America. Near-real-time 6-day probabilistic forecasts with 6-hour update cycles. *Funded by UKRI.* | AWS, PyTorch, Raster/Time-Series |
 | **🛢️ Alberta Wells** | Pinpointing 213K+ oil & gas wells from satellite imagery at MILA, Quebec. Computer vision for well detection, spatial analysis of undocumented wells contributing to methane emissions. *Funded by NSERC.* [arXiv](https://arxiv.org/abs/2410.09032) | Planet, GEE, PostGIS, STAC API |
-| **🌴 Palm Nutrient Estimation** | Non-destructive drone-based workflow estimating macro/micronutrient content in oil palm foliage using multispectral imagery and ML. *Funded by GOPDC/CIAT.* | MicaSense Altum, Pix4D, Python |
+| **🌴 Palm Nutrient Estimation** | Non-destructive drone-based workflow estimating macro and micronutrient content in oil palm foliage using multispectral imagery and ML. *Funded by GOPDC/CIAT.* | MicaSense Altum, Pix4D, Python |
 | **🗺️ Integrated Palm Plantation** | End-to-end palm plantation analytics — tree counting, blankspot detection, health assessment, and terrain analysis with interactive dashboards. *Funded by TOPP/Unilever.* | Apache Sedona, PostGIS, ArcGIS Online |
 
 ---
