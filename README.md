@@ -46,10 +46,10 @@ Languages              Python · SQL · JavaScript
 
 - **MSc Machine Intelligence — Geospatial Data Science**, AMMI-AIMS, Kigali, Rwanda  
   *Thesis: Using Nighttime Lights and ML to predict economic well-being*
-- **MEng Cartography & GIS Engineering**, China University of Geosciences, Wuhan  
+- **MEng Cartography & GIS Engineering**, China University of Geosciences (Wuhan), China  
   *Thesis: GDP estimation of African countries using NPP-VIIRS nighttime lights*
-- **UNESCO Postgraduate Certificate**, China University of Geosciences, Wuhan  
-- **BSc Geomatic Engineering**, KNUST, Kumasi, Ghana  
+- **UNESCO Postgraduate Certificate**, China University of Geosciences (Wuhan), China  
+- **BSc Geomatic Engineering**, KNUST, Kumasi, Ghana
 
 ---
 
