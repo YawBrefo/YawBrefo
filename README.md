@@ -1,6 +1,6 @@
 # Hi, I'm Yaw Dwamena Brefo 👋🏾
 
-**Senior Geospatial Data Scientist** with 10+ years of experience in geospatial science, remote sensing, and machine learning — turning satellite and drone imagery into actionable intelligence.
+**Senior Geospatial Data Scientist** with over a decade of experience in geospatial science, remote sensing, and machine learning — turning satellite and drone imagery into actionable intelligence.
 
 📍 Accra, Ghana &nbsp;|&nbsp; 🏢 [Aya Data](https://www.ayadata.ai/) &nbsp;|&nbsp; 🎓 MILA, CUG & AMMI-AIMS &nbsp;|&nbsp; 📄 [LinkedIn](https://www.linkedin.com/in/yaw-brefo-3b2004ba/)
 
