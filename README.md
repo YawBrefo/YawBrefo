@@ -37,7 +37,7 @@ ML & Deep Learning     PyTorch · TensorFlow · U-Net · LightGBM · Scikit-lear
 Remote Sensing         Sentinel · Landsat · Planet · MicaSense (Drone)
 Data & Databases       PostgreSQL/PostGIS · Apache Sedona · STAC API
 Visualization          ArcGIS Online · MapBox · QGIS · Folium
-Languages              Python · SQL · JavaScript
+Prog. Languages              Python · SQL · JavaScript
 ```
 
 ---
