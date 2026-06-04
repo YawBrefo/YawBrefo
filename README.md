@@ -8,7 +8,7 @@
 
 ### 🛰️ What I Do
 
-I build end-to-end geospatial pipelines from satellite acquisition to spatial ML models to real-time decision systems. My work spans precision agriculture, environmental monitoring, and resource exploration across Africa and beyond.
+I build end-to-end geospatial pipelines from satellite acquisitions to spatial ML models to real-time decision systems. My work spans precision agriculture, environmental monitoring, and resource exploration across Africa and beyond.
 
 - **Satellite & Drone Analytics** — Multi sensor fusion (Sentinel, Landsat, Planet, MicaSense) for land cover mapping, crop health monitoring, and change detection  
 - **Spatial Machine Learning** — Deep learning architectures (U-Net, CNNs) for image segmentation, object detection, and spatiotemporal forecasting  
